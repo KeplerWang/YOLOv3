@@ -11,9 +11,8 @@ This repository is created in order to share my understanding of YOLO(v1, v3, an
 
 But sorry to note that at the begining I don't offer any training results on public datasets like PASCAL_VOC2007 and COCO, 
 just because I don't have enough time and adequate GPUs.
-If you find this repository and have tried it on certain datasets, 
+If you find this repository useful and have tried it on certain datasets, 
 I would appreciate it that you offer the results.
-Hope it's useful to you.
 
 ## Todo list
 
