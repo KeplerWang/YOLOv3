@@ -4,7 +4,7 @@ from torch.utils.data import DataLoader
 from model.yolov3 import YOLOv3
 from tqdm import tqdm
 from loss import YOLOLoss
-from dataset import YOLODataset
+from YOLOdataset import YOLODataset
 from utils.utils import calc_mean_average_precision, save_checkpoints, calc_accuracy
 from torch.utils.tensorboard import SummaryWriter
 torch.backends.cudnn.benchmark = True
