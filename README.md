@@ -1,4 +1,4 @@
-# Minimal implementation of YOLOv3 in PyTorch 
+# Minimal PyTorch implementation of YOLOv3 
 
 ## Overview
 After reading the YOLO papers,
